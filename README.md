@@ -275,3 +275,5 @@ O arquivo `template.yaml` na raiz do projeto automatiza o provisionamento e o v�
 * `sam local start-api`: Inicia um servidor local simulando o API Gateway e as Lambdas para testes na máquina do desenvolvedor.
 * `sam deploy --guided`: Realiza o deploy automatizado de toda a infraestrutura para a conta AWS.
 * `sam delete`: Remove completamente todos os recursos gerados na AWS, garantindo segurança contra cobranças surpresas pós-testes.
+
+### A criação de um banco de dados foi mais complicada.
